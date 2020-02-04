@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579718733 source:c:\users\shivam chhabra\desktop\c\dream11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
